@@ -1,1 +1,1 @@
-websocket chat 웹을 위한 front end
+웹소켓 채팅을 위한 프론드엔드
